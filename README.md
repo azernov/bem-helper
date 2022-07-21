@@ -5,7 +5,7 @@ Tool for helping to create folder&files structure in bem-based projects.
 ## Installation
 
 ```bash
-npm install artprog@bem-helper
+npm install @artprog/bem-helper
 ```
 
 ## Usage
