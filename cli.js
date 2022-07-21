@@ -5,7 +5,7 @@ const path = require('path');
 const yargs = require("yargs");
 
 const options = yargs
-    .usage("Usage: -n <name>")
+    .usage("Usage: npx bem-helper -b <name> [-e <name>] [-m <name>]")
     .option("b", {
         alias: "block",
         describe: "Block name. Example: input",
