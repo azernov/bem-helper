@@ -1,6 +1,6 @@
 {
   "name": "@artprog/bem-helper",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "CLI tool for helping to create folder&files structure in bem-based projects",
   "main": "cli.js",
   "dependencies": {

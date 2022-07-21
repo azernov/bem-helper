@@ -60,12 +60,17 @@ npx bem-helper -b nav -e item -m active
 npx bem-helper -b nav -e item -m color_primary,color_secondary
 ```
 
-### Customize templates and paths
+## Customize templates and paths
 
 To customize paths check file:
 
 ```
-[your-project-path]/node_modules/bem-helper/
+[your-project-path]/node_modules/bem-helper/config.js
+```
+
+To customize templates of pug & scss files check folder:
+```
+[your-project-path]/node_modules/bem-helper/templates/
 ```
 
 ### BTC Donation
