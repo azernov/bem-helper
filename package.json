@@ -1,0 +1,19 @@
+{
+  "name": "@artprog/bem-helper",
+  "version": "1.0.0",
+  "description": "CLI tool for fast creating file structure for BEM-based projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "BEM",
+    "bem"
+  ],
+  "author": "artprog",
+  "license": "MIT",
+  "bin": "cli.js",
+  "dependencies": {
+    "yargs": "^17.5.1"
+  }
+}

@@ -1,0 +1,6 @@
+mixin %name%
+    .%name%(class!=attributes.class)
+        if block
+            block
+        else
+            = "default content"
