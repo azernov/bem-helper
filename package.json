@@ -25,5 +25,6 @@
   "bugs": {
     "url": "https://github.com/azernov/bem-helper/issues"
   },
-  "homepage": "https://github.com/azernov/bem-helper#readme"
+  "homepage": "https://github.com/azernov/bem-helper#readme",
+  "bin": "cli.js"
 }
